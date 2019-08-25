@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="header"></div>
+<div class="middle"></div>
+<div class="stuff">
+    <br><br>
+    <h1>Imaobong Esien</h1>
+    <h2>Medical Student</h2>
+    <hr />
+<h>
+   <p>5 Brown Street</p>
+   <p>Uyo</p>
+   <a href="phone number">08100534454</a>
+   <a href="email">imaesien1@gmail.com</a>
+</h>
+<hr />
+<p class="head"><strong>SKILLS</strong>
+</p>
+<ul>
+   <li>Patient assessment</li>
+   <li>Foley catheter insertion and removal</li>
+   <li>Intravenous cannulation</li>
+   <li>Confidential case documentation</li>
+   <li>Seasoned in medical clinical procedures</li>
+   <li>NG tube insertion and removal</li>
+   <li>Computer literate</li>
+</ul>   
+<hr />
+<p class= "head"><strong>EXPERIENCE</strong></p>
+
+   <p>University of Uyo Teaching Hospital/Medical Student</p>
+   <p>Jan 2014 - Present, Uyo</p> 
+     <ul>
+     <li>Assisted patient medication administration using various methods</li>
+     <li>Observed and recorded patients condition by assessing vitals</li>
+     <li>Participated in all scheduled rounds and teaching conferences</li>
+     <li>Developed and maintained rapport with coworkers</li>
+     </ul>
+     <hr />
+<p class= "head"><strong>EDUCATION</strong></p>
+<ol>
+    <li>University of Uyo/MBBS</li>
+    <p>January 2014 - Present, Uyo</p>
+
+
+    <li>Redemption Academy</li>
+    <p>January 2007 - December 2013, Uyo</p>
+</ol>  
+<hr />  
+<p class= "head"><strong>AWARDS</strong></p>
+<ul>
+
+    <li>Best in Physics 2013/2014</li>  
+    <li>Best in Chemistry 2013/2014</li>
+    <li>Best in Biology 2013/2014</li>
+</ul>         
